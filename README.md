@@ -4,7 +4,7 @@ Projekt stworzony na własne potrzeby w celu ułatwienia kontroli wydatków na p
 ---
 
 ### Podsumowanie – jak powinien wyglądać Twój folder:
-Przed wysłaniem na GitHuba, Twój folder projektu powinien zawierać:
+Folder projektu zawiera:
 * 📁 `spalanie.py`
 * 📁 `.gitignore`
 * 📁 `README.md`
